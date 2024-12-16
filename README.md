@@ -11,13 +11,14 @@ This course focuses on understanding statistical concepts and implementing machi
 |------------|--------------------------------|-----------------------------------------------------------------------------|
 | Day 1-2    | Exploratory Data Analysis (EDA)| Analyze pH, solubility, and other properties. Learn mean, median, mode, etc.|
 | Day 3      | Z-Scores and Outlier Detection | Identify and handle outliers using z-scores. Discuss their impact in chemistry. |
-| Day 4      | Machine Learning , Deep Learning and NLP Ralations and Essentials|
-| Day 5-6    | Linear Regression              | Predict solubility using pH and density. Implement with scikit-learn.       |
-| Day 7-8    | K-Nearest Neighbors (KNN)      | Classify samples as acidic or basic. Focus on hyperparameters and accuracy. |
-| Day 9-10   | K-Means Clustering             | Group samples by properties like solubility and conductivity. Visualize clusters. |
-| Day 11-12  | Decision Trees                 | Predict reaction types (Exothermic/Endothermic). Learn feature importance.  |
-| Day 13-14  | Gradient Descent               | Understand optimization and cost functions in ML.                           |
-| Day 15     | Capstone Project               | Apply all techniques to analyze and present insights from the dataset.      |
+| Day 4      | Linear Regression              | Predict solubility using pH and density. Implement with scikit-learn.       |
+| Day 5-6    | K-Nearest Neighbors (KNN)      | Classify samples as acidic or basic. Focus on hyperparameters and accuracy. |
+| Day 7-8    | K-Means Clustering             | Group samples by properties like solubility and conductivity. Visualize clusters. |
+| Day 9-10   | Decision Trees                 | Predict reaction types (Exothermic/Endothermic). Learn feature importance.  |
+| Day 11     | Gradient Descent               | Understand optimization and cost functions in ML.                           |
+| Day 12     | Project No 1                   | Student has to do both EDA and Prediction on any Algorithm on their choice  |
+| Day 13-14  | Project No 2                   | Student has to do a full Data Research , EDA , Prediction and Deployment    |
+| Day 15+    | Capstone Project               | Apply all techniques to create a industry standard model                    |
 
 ## Resources
 - **Datasets**: Pre-generated chemistry datasets will be provided for hands-on practice.
