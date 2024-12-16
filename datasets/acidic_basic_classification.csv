@@ -1,0 +1,21 @@
+Sample_ID,pH,Conductivity (mS/cm),Temperature (°C),Classification
+Sample_1,7.61,4.31,52.1,Basic
+Sample_2,1.76,1.27,48.2,Acidic
+Sample_3,12.62,11.47,52.4,Basic
+Sample_4,7.97,7.17,21.2,Basic
+Sample_5,11.66,6.77,33.6,Basic
+Sample_6,10.86,4.68,22.3,Basic
+Sample_7,1.4,5.32,42.6,Acidic
+Sample_8,1.36,8.5,77.9,Acidic
+Sample_9,6.51,1.06,22.5,Acidic
+Sample_10,5.82,8.38,69.5,Acidic
+Sample_11,10.24,4.23,44.5,Basic
+Sample_12,11.04,13.31,65.0,Basic
+Sample_13,10.55,2.23,78.1,Basic
+Sample_14,3.83,5.55,54.9,Acidic
+Sample_15,9.05,10.24,63.0,Basic
+Sample_16,11.64,12.62,78.7,Basic
+Sample_17,12.02,3.25,47.7,Basic
+Sample_18,12.52,6.09,58.4,Basic
+Sample_19,1.12,0.81,33.6,Acidic
+Sample_20,2.07,12.61,55.9,Acidic
