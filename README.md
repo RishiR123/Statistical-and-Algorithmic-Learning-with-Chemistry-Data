@@ -24,7 +24,7 @@ This course focuses on understanding statistical concepts and implementing machi
 - **Tools Required**: Google Colab or local Python environment with Jupyter Notebook.
 
 ## Meeting Links
-- **Google Meet Link**: [Join the Session](https://meet.google.com/example-link)  
+- **Google Meet Link**: [Join the Session](https://meet.google.com/rdh-kkap-hsr)  
   Ensure you join the session on time every day as per the schedule.
 
 ## Repository Structure
