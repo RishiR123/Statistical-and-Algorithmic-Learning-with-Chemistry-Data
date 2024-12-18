@@ -19,6 +19,58 @@ This course focuses on understanding statistical concepts and implementing machi
 | Day 13-14  | Project No 2                   | Student has to do a full Data Research , EDA , Prediction and Deployment    |
 | Day 15+    | Capstone Project               | Apply all techniques to create a industry standard model                    |
 
+
+# Math Requirements for ML Concepts
+
+## **Calculus 1**
+### **1. Derivatives (Differentiation):**
+- **Definition:** Understanding limits and how derivatives represent the rate of change.
+- **Rules of Differentiation:**
+  - **Power Rule:** \( \frac{d}{dx}(x^n) = n \cdot x^{n-1} \)
+  - **Sum and Difference Rules.**
+  - **Constant Multiple Rule.**
+- **Applications:** Slope of curves, optimization problems.
+
+### **2. Chain Rule:**
+- **Formula:** \( \frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx} \)
+- **Use:** Differentiating composite functions like \( f(g(x)) \).
+
+### **3. Product Rule:**
+- **Formula:** \( \frac{d}{dx}(uv) = u'v + uv' \)
+- **Use:** Differentiating products of functions.
+
+---
+
+## **Linear Algebra**
+### **1. Matrix Operations:**
+- **Addition, Subtraction, and Scalar Multiplication.**
+- **Matrix Multiplication:** Understanding dimensions and the dot product.
+- **Transpose of a Matrix.**
+- **Inverse of a Matrix** (when it exists).
+
+### **2. Vectors:**
+- **Basics:** Magnitude and direction.
+- **Dot Product:** \( \vec{u} \cdot \vec{v} = \sum u_i v_i \).
+- **Cross Product** (optional): Useful for 3D vector calculations.
+- **Applications:** Linear transformations and projections.
+
+---
+
+## **Probability and Statistics**
+### **1. Measures of Central Tendency:**
+- **Mean:** \( \mu = \frac{\sum x_i}{n} \).
+- **Median:** Middle value in sorted data.
+- **Mode:** Most frequent value in the dataset.
+
+### **2. Measures of Dispersion:**
+- **Standard Deviation:** \( \sigma = \sqrt{\frac{\sum (x_i - \mu)^2}{n}} \).
+- **Variance:** \( \sigma^2 \), square of standard deviation.
+
+### **3. Z-Score:**
+- **Formula:** \( z = \frac{x - \mu}{\sigma} \).
+- **Use:** Measuring how far a data point is from the mean in standard deviations.
+
+
 ## Resources
 - **Datasets**: Pre-generated chemistry datasets will be provided for hands-on practice.
 - **Implementation**: All algorithms will be implemented using Python and scikit-learn.
