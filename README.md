@@ -15,8 +15,7 @@ This course focuses on understanding statistical concepts and implementing machi
 | Day 5-6    | K-Nearest Neighbors (KNN)      | Classify samples as acidic or basic. Focus on hyperparameters and accuracy. |
 | Day 7-8    | K-Means Clustering             | Group samples by properties like solubility and conductivity. Visualize clusters. |
 | Day 9-10   | Decision Trees                 | Predict reaction types (Exothermic/Endothermic). Learn feature importance.  |
-| Day 11     | Gradient Descent               | Understand optimization and cost functions in ML.                           |
-| Day 12     | Project No 1                   | Student has to do both EDA and Prediction on any Algorithm on their choice  |
+| Day 11-12     | Project No 1                   | Student has to do both EDA and Prediction on any Algorithm on their choice  |
 | Day 13-14  | Project No 2                   | Student has to do a full Data Research , EDA , Prediction and Deployment    |
 | Day 15+    | Capstone Project               | Apply all techniques to create a industry standard model                    |
 
