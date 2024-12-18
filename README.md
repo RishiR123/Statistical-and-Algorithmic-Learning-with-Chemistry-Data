@@ -11,7 +11,7 @@ This course focuses on understanding statistical concepts and implementing machi
 |------------|--------------------------------|-----------------------------------------------------------------------------|
 | Day 1-2    | Exploratory Data Analysis (EDA)| Analyze pH, solubility, and other properties. Learn mean, median, mode, etc.|
 | Day 3      | Z-Scores and Outlier Detection | Identify and handle outliers using z-scores. Discuss their impact in chemistry. |
-| Day 4      | Linear Regression              | Predict solubility using pH and density. Implement with scikit-learn.       |
+| Day 4      | Linear Regression              | Predict solubility using pH and density. Implement with/ without scikit-learn.       |
 | Day 5-6    | K-Nearest Neighbors (KNN)      | Classify samples as acidic or basic. Focus on hyperparameters and accuracy. |
 | Day 7-8    | K-Means Clustering             | Group samples by properties like solubility and conductivity. Visualize clusters. |
 | Day 9-10   | Decision Trees                 | Predict reaction types (Exothermic/Endothermic). Learn feature importance.  |
