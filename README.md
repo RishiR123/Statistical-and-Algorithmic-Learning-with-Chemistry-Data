@@ -26,17 +26,15 @@ This course focuses on understanding statistical concepts and implementing machi
 ### **1. Derivatives (Differentiation):**
 - **Definition:** Understanding limits and how derivatives represent the rate of change.
 - **Rules of Differentiation:**
-  - **Power Rule:** \( \frac{d}{dx}(x^n) = n \cdot x^{n-1} \)
+  - **Power Rule:** 
   - **Sum and Difference Rules.**
   - **Constant Multiple Rule.**
 - **Applications:** Slope of curves, optimization problems.
 
 ### **2. Chain Rule:**
-- **Formula:** \( \frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx} \)
-- **Use:** Differentiating composite functions like \( f(g(x)) \).
+- **Use:** Differentiating composite functions
 
 ### **3. Product Rule:**
-- **Formula:** \( \frac{d}{dx}(uv) = u'v + uv' \)
 - **Use:** Differentiating products of functions.
 
 ---
@@ -50,7 +48,7 @@ This course focuses on understanding statistical concepts and implementing machi
 
 ### **2. Vectors:**
 - **Basics:** Magnitude and direction.
-- **Dot Product:** \( \vec{u} \cdot \vec{v} = \sum u_i v_i \).
+- **Dot Product** 
 - **Cross Product** (optional): Useful for 3D vector calculations.
 - **Applications:** Linear transformations and projections.
 
