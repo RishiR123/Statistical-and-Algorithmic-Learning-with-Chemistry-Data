@@ -1,0 +1,145 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1e2b317d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd \n",
+    "import matplotlib.pyplot as plt\n",
+    "\n",
+    "%matplotlib"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e982a5b7",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.read_csv(\"Solubility.csv\").drop(\"Sample_ID\", axis=\"columns\")\n",
+    "df"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b479f4c4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "x = df[\"Density (g/cm³)\"]\n",
+    "y = df[\"Solubility (g/L)\"]\n",
+    "\n",
+    "plt.scatter(x, y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f67962f9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def predict(m, x, b):\n",
+    "    y_predict = m * x + b\n",
+    "    return y_predict\n",
+    "\n",
+    "predict(1, 1.5, 20)\n",
+    "\n",
+    "plt.scatter(x, y)\n",
+    "plt.plot(x, predict(37.7667, x, 17.7181))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "45c234b6",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def mse(m, b, x, y):\n",
+    "    n = x.shape[0]\n",
+    "    error = 0\n",
+    "    y_predict = m * x + b\n",
+    "    for i in range(n):\n",
+    "        error = error + (y[i] - y_predict[i]) ** 2 / n\n",
+    "    return error\n",
+    "\n",
+    "mse(45, 5, x, y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fae32664",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from sklearn.metrics import mean_squared_error\n",
+    "\n",
+    "mean_squared_error(y, predict(45, x, 5))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d8cc0aa6",
+   "metadata": {},
+   "source": [
+    "![image.png](attachment:image.png)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c23bd93c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def gradient_decent(x, y):\n",
+    "    iter = 10\n",
+    "    n = x.shape[0]\n",
+    "    learning_rate = 0.22\n",
+    "    m_curr = b_curr = 0\n",
+    "    \n",
+    "    for i in range(iter):\n",
+    "        y_pred = m_curr * x + b_curr\n",
+    "        error = sum((y - y_pred) ** 2) / n\n",
+    "\n",
+    "        m_d = -(2/n) * sum(x * (y - y_pred))\n",
+    "        b_d = -(2/n) * sum(y - y_pred)\n",
+    "\n",
+    "        m_curr = m_curr - learning_rate * m_d\n",
+    "        b_curr = b_curr - learning_rate * b_d\n",
+    "\n",
+    "        print(f\"Iteration {i+1}: Cost = {error:.4f}, m = {m_curr:.4f}, b = {b_curr:.4f}\")\n",
+    "\n",
+    "gradient_decent(x, y)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
