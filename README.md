@@ -9,7 +9,8 @@ This course focuses on understanding statistical concepts and implementing machi
 ### 15-Day Learning Plan
 | Day        | Topic                          | Description                                                                 |
 |------------|--------------------------------|-----------------------------------------------------------------------------|
-| Day 1-2    | Exploratory Data Analysis (EDA)| Analyze pH, solubility, and other properties. Learn mean, median, mode, etc.|
+| Day 1      | Relative Math                  | Linear Algebra , Calculas 1                                       |
+| Day 2      | Exploratory Data Analysis (EDA)| Analyze pH, solubility, and other properties. Learn mean, median, mode, etc.|
 | Day 3      | Z-Scores and Outlier Detection | Identify and handle outliers using z-scores. Discuss their impact in chemistry. |
 | Day 4      | Linear Regression              | Predict solubility using pH and density. Implement with/ without scikit-learn.       |
 | Day 5-6    | K-Nearest Neighbors (KNN)      | Classify samples as acidic or basic. Focus on hyperparameters and accuracy. |
