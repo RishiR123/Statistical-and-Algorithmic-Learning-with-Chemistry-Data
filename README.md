@@ -21,6 +21,9 @@ This course focuses on understanding statistical concepts and implementing machi
 | Day 15+    | Capstone Project               | Apply all techniques to create a industry standard model                    |
 
 
+Linear Regression - https://colab.research.google.com/drive/1_TMndfWBrNjOcRpCJzxpcZVvOUCMq_rP?usp=sharing
+
+
 # Math Requirements for ML Concepts
 
 ## **Calculus 1**
