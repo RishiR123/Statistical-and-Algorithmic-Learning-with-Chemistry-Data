@@ -1,66 +1,66 @@
-Molecular Weight (g/mol),Boiling Point (°C),Substance Name
-18.015,100.00,Water
-44.01,-78.5,Carbon Dioxide
-28.013,-195.8,Nitrogen
-32.00,-182.96,Oxygen
-4.0026,-268.93,Helium
-46.07,78.37,Ethanol
-78.11,80.1,Benzene
-16.04,-161.5,Methane
-86.18,68.7,Hexane
-92.14,110.6,Toluene
-58.08,56.05,Acetone
-60.10,243.0,Propanol
-94.11,182.0,Phenol
-72.15,36.1,Pentane
-17.03,-33.34,Ammonia
-34.08,-60.0,Hydrogen Sulfide
-70.91,-34.04,Chlorine
-64.06,10.0,Sulfur Dioxide
-30.03,-19.5,Formaldehyde
-39.95,-185.0,Argon
-2.016,-252.9,Hydrogen
-20.18,-246.05,Neon
-38.00,-188.1,Fluorine
-83.80,-153.22,Krypton
-131.29,-108.0,Xenon
-222.02,-61.7,Radon
-76.12,-111.7,Silane
-28.05,-103.7,Ethylene
-26.04,-84.0,Acetylene
-32.04,-98.0,Methanol
-60.10,82.6,Isopropanol
-74.12,117.7,Butanol
-118.94,61.7,Chloroform
-28.01,-191.5,Carbon Monoxide
-30.07,-88.6,Ethane
-44.10,-42.1,Propane
-58.12,-0.5,Butane
-82.15,137.0,Pentanol
-102.17,156.0,Hexanol
-100.20,98.4,Heptane
-114.23,125.0,Octane
-128.23,150.8,Nonane
-142.29,174.0,Decane
-84.16,80.7,Cyclohexane
-70.10,49.0,Cyclopentane
-56.09,12.0,Cyclobutane
-42.08,-13.3,Cyclopropane
-32.06,-52.6,Hydrazine
-72.11,-66.0,Tetrahydrofuran
-74.12,34.6,Diethyl Ether
-88.11,77.1,Ethyl Acetate
-60.05,118.1,Acetic Acid
-46.03,100.0,Formic Acid
-192.13,153.0,Citric Acid
-90.08,178.0,Lactic Acid
-122.12,249.0,Benzoic Acid
-80.52,141.0,Acetyl Chloride
-59.11,122.0,Ethylamine
-73.14,56.6,Diethylamine
-101.19,57.0,Triethylamine
-93.13,184.0,Aniline
-92.14,184.0,Toluene
-104.15,145.0,Styrene
-62.50,-13.3,Vinyl Chloride
-58.94,58.8,Bromine
+Molecular Weight,Density,Substance Name
+18.015,0.998,Water
+44.01,1.977,Carbon Dioxide
+28.013,1.250,Nitrogen
+32.00,1.429,Oxygen
+4.0026,0.1785,Helium
+46.07,0.789,Ethanol
+78.11,0.876,Benzene
+16.04,0.656,Methane
+86.18,0.654,Hexane
+92.14,0.867,Toluene
+58.08,0.791,Acetone
+60.10,0.803,Propanol
+94.11,1.071,Phenol
+72.15,0.626,Pentane
+17.03,0.682,Ammonia
+34.08,1.392,Hydrogen Sulfide
+70.91,1.556,Chlorine
+64.06,1.421,Sulfur Dioxide
+30.03,1.067,Formaldehyde
+39.95,1.784,Argon
+2.016,0.000178,Hydrogen
+20.18,0.000899,Neon
+38.00,1.696,Fluorine
+83.80,1.589,Krypton
+131.29,3.496,Xenon
+222.02,0.00973,Radon
+76.12,0.779,Silane
+28.05,1.166,Ethylene
+26.04,1.098,Acetylene
+32.04,0.000818,Methanol
+60.10,0.878,Isopropanol
+74.12,0.81,Butanol
+118.94,1.325,Chloroform
+28.01,1.250,Carbon Monoxide
+30.07,1.235,Ethane
+44.10,0.564,Propane
+58.12,0.803,Butane
+82.15,0.786,Pentanol
+102.17,1.325,Hexanol
+100.20,0.814,Heptane
+114.23,0.703,Octane
+128.23,0.755,Nonane
+142.29,0.774,Decane
+84.16,0.779,Cyclohexane
+70.10,0.800,Cyclopentane
+56.09,0.850,Cyclobutane
+42.08,1.023,Cyclopropane
+32.06,0.851,Hydrazine
+72.11,1.066,Tetrahydrofuran
+74.12,0.712,Diethyl Ether
+88.11,0.897,Ethyl Acetate
+60.05,1.049,Acetic Acid
+46.03,1.221,Formic Acid
+192.13,1.661,Citric Acid
+90.08,1.200,Lactic Acid
+122.12,1.325,Benzoic Acid
+80.52,1.410,Acetyl Chloride
+59.11,0.773,Ethylamine
+73.14,0.744,Diethylamine
+101.19,0.695,Triethylamine
+93.13,1.030,Aniline
+92.14,0.867,Toluene
+104.15,0.906,Styrene
+62.50,0.858,Vinyl Chloride
+58.94,3.120,Bromine
