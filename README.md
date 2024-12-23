@@ -22,6 +22,7 @@ This course focuses on understanding statistical concepts and implementing machi
 
 
 Linear Regression - https://colab.research.google.com/drive/1_TMndfWBrNjOcRpCJzxpcZVvOUCMq_rP?usp=sharing
+Linear Regression with Multivariable - https://colab.research.google.com/drive/1unpLIHaf09PDiOWMA_7LSkQlPcYSzFtL?usp=sharing
 
 
 # Math Requirements for ML Concepts
