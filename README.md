@@ -22,7 +22,7 @@ This course focuses on understanding statistical concepts and implementing machi
 
 
 ### Google Collab
-| Sn        | Topic                          | Description                                                                 |
+| Sn        | Topic                          | Callob Links                                                                 |
 |------------|--------------------------------|-----------------------------------------------------------------------------|
 |1      | Linear Regression using one varible                 |https://colab.research.google.com/drive/1_TMndfWBrNjOcRpCJzxpcZVvOUCMq_rP?usp=sharing                                  |
 | 2     | Linear Regression using two varible|https://colab.research.google.com/drive/1unpLIHaf09PDiOWMA_7LSkQlPcYSzFtL?usp=sharing
