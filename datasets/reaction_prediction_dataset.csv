@@ -1,0 +1,101 @@
+Reaction ID,Reactant(s),Product(s),Reaction Type,Catalyst/Conditions,Enthalpy Change (kJ/mol),Activation Energy (kJ/mol),Reaction Rate,State Change,Notes
+R001,"Potassium Iodide, Carbon Monoxide, Sodium Hydroxide","Hydrochloric Acid, Ethene",Neutralization,"Electric Current, 48 K",-370.81,212.57,Moderate,Liquid to Solid,Industrial significance
+R002,"Hydrogen, Sulfuric Acid","Glucose, Calcium Carbonate, Oxygen",Polymerization,"High Temp, 284 K",155.16,170.91,Moderate,Gas to Liquid,Biological process
+R003,"Iron, Carbon Monoxide","Sodium Chloride, Carbon Monoxide",Isomerization,"Low Temp, 28 K",349.07,45.87,Slow,Liquid to Liquid,Requires external energy input
+R004,"Sodium Hydroxide, Ethanol, Carbon Dioxide",Oxygen,Isomerization,"High Temp, 133 K",-495.64,219.32,Fast,Liquid to Gas,Highly exothermic
+R005,"Iron, Magnesium","Acetic Acid, Sodium Chloride",Polymerization,"Catalyst: None, 328 K",-476.92,272.72,Fast,Gas to Solid,Industrial significance
+R006,"Acetic Acid, Calcium Carbonate, Hydrochloric Acid","Sulfuric Acid, Water, Methane",Addition,"High Temp, 179 K",-102.71,199.46,Moderate,Solid to Solid,Highly exothermic
+R007,Nitrogen,"Sodium Chloride, Benzene, Calcium Carbonate",Combustion,"High Temp, 77 K",36.09,127.06,Slow,Gas to Solid,Reversible reaction
+R008,"Sulfuric Acid, Sodium Chloride, Acetic Acid","Hydrogen, Hydrochloric Acid",Addition,"Electric Current, 450 K",-382.97,277.07,Slow,Solid to Aqueous,Forms a stable compound
+R009,"Potassium Iodide, Carbon Monoxide, Chlorine",Phenol,Substitution,"Electric Current, 413 K",204.7,132.83,Slow,Aqueous to Liquid,Requires external energy input
+R010,"Acetic Acid, Phenol","Sodium Chloride, Carbon Dioxide",Neutralization,"Electric Current, 17 K",92.76,257.55,Slow,Gas to Liquid,Industrial significance
+R011,"Calcium Carbonate, Acetylene, Nitrogen",Ammonia,Isomerization,"Electric Current, 176 K",-55.57,225.2,Moderate,Liquid to Aqueous,Biological process
+R012,Sodium Hydroxide,Glucose,Combustion,"Catalyst: None, 236 K",-454.67,191.59,Slow,Solid to Gas,Industrial significance
+R013,Potassium Iodide,Oxygen,Decomposition,"Electric Current, 273 K",-215.85,265.38,Slow,Liquid to Aqueous,Requires external energy input
+R014,"Water, Potassium Iodide",Sulfuric Acid,Oxidation-Reduction,"High Temp, 56 K",-205.69,73.28,Moderate,Liquid to Gas,Requires external energy input
+R015,Sodium Chloride,Magnesium,Condensation,"Catalyst: None, 413 K",158.68,267.05,Fast,Liquid to Gas,Industrial significance
+R016,"Water, Sulfuric Acid","Ammonia, Hydrogen",Electrolysis,"Low Temp, 30 K",-329.96,39.57,Moderate,Liquid to Gas,Reversible reaction
+R017,"Sulfuric Acid, Glucose",Sodium Chloride,Isomerization,"High Temp, 117 K",6.64,53.12,Fast,Solid to Aqueous,Reversible reaction
+R018,Oxygen,"Benzene, Hydrogen",Electrolysis,"Low Temp, 137 K",257.25,14.37,Slow,Liquid to Aqueous,Highly exothermic
+R019,"Carbon Dioxide, Oxygen","Sulfuric Acid, Acetylene",Electrolysis,"Low Temp, 327 K",254.64,259.59,Moderate,Gas to Liquid,Forms a stable compound
+R020,"Carbon Monoxide, Water, Phenol","Acetylene, Oxygen, Iron",Hydrolysis,"Catalyst: None, 348 K",-364.59,51.15,Fast,Liquid to Aqueous,Reversible reaction
+R021,"Calcium Carbonate, Acetylene","Oxygen, Sodium Chloride",Decomposition,"Electric Current, 294 K",99.93,51.35,Slow,Liquid to Gas,Industrial significance
+R022,Sodium Hydroxide,"Sodium Chloride, Water, Ammonia",Isomerization,"Low Temp, 100 K",329.96,133.16,Slow,Solid to Gas,Forms a stable compound
+R023,"Magnesium, Benzene, Chlorine","Hydrochloric Acid, Ammonia, Oxygen",Addition,"Catalyst: None, 217 K",-280.66,159.49,Fast,Solid to Solid,Industrial significance
+R024,"Acetylene, Sodium Chloride, Benzene","Carbon Dioxide, Methane",Hydrolysis,"Catalyst: None, 91 K",-150.57,224.29,Fast,Solid to Liquid,Industrial significance
+R025,"Ethene, Iron, Water","Iron, Ethanol, Hydrochloric Acid",Hydrolysis,"Low Temp, 143 K",-67.28,165.62,Slow,Aqueous to Aqueous,Industrial significance
+R026,Carbon Dioxide,"Nitrogen, Chlorine",Substitution,"Catalyst: None, 271 K",294.02,126.05,Moderate,Aqueous to Solid,Highly exothermic
+R027,Phenol,"Carbon Monoxide, Sodium Hydroxide, Water",Isomerization,"High Temp, 85 K",-368.23,96.98,Moderate,Liquid to Gas,Highly exothermic
+R028,Glucose,Ethene,Synthesis,"High Temp, 37 K",-138.08,204.71,Moderate,Aqueous to Solid,Forms a stable compound
+R029,"Sulfuric Acid, Ethanol, Chlorine",Acetic Acid,Electrolysis,"Catalyst: None, 322 K",-219.38,256.43,Moderate,Liquid to Solid,Reversible reaction
+R030,"Sulfuric Acid, Glucose, Water","Ethene, Carbon Dioxide, Glucose",Oxidation-Reduction,"Low Temp, 396 K",-413.79,223.03,Fast,Solid to Aqueous,Forms a stable compound
+R031,"Acetic Acid, Nitrogen","Hydrochloric Acid, Water, Ethene",Electrolysis,"Electric Current, 76 K",445.44,126.51,Fast,Gas to Solid,Biological process
+R032,Potassium Iodide,"Magnesium, Hydrochloric Acid, Methane",Decomposition,"Electric Current, 380 K",350.6,152.46,Moderate,Gas to Solid,Requires external energy input
+R033,"Acetic Acid, Water",Carbon Monoxide,Addition,"High Temp, 342 K",-42.1,75.83,Fast,Gas to Solid,Forms a stable compound
+R034,"Nitrogen, Acetylene, Carbon Monoxide",Ethene,Addition,"High Temp, 223 K",284.82,120.53,Slow,Solid to Aqueous,Highly exothermic
+R035,"Oxygen, Benzene","Chlorine, Potassium Iodide, Iron",Condensation,"High Temp, 415 K",-333.6,283.68,Slow,Solid to Liquid,Reversible reaction
+R036,Water,"Sodium Chloride, Glucose",Neutralization,"Low Temp, 229 K",-244.56,114.69,Fast,Liquid to Solid,Requires external energy input
+R037,"Sodium Chloride, Ammonia, Calcium Carbonate",Carbon Dioxide,Addition,"High Temp, 315 K",165.66,200.68,Fast,Gas to Liquid,Biological process
+R038,"Chlorine, Methane, Ethene","Carbon Dioxide, Acetylene",Isomerization,"Low Temp, 244 K",-35.02,217.3,Slow,Liquid to Liquid,Industrial significance
+R039,"Water, Hydrochloric Acid, Acetic Acid","Phenol, Calcium Carbonate, Magnesium",Combustion,"Catalyst: None, 322 K",104.86,124.28,Moderate,Aqueous to Liquid,Forms a stable compound
+R040,Glucose,Sulfuric Acid,Combustion,"High Temp, 382 K",120.0,131.19,Fast,Solid to Gas,Reversible reaction
+R041,"Calcium Carbonate, Iron, Oxygen",Acetylene,Oxidation-Reduction,"Low Temp, 172 K",-444.81,173.99,Fast,Aqueous to Liquid,Industrial significance
+R042,Ethene,"Hydrochloric Acid, Ethene",Addition,"Electric Current, 406 K",-188.89,69.45,Fast,Gas to Solid,Reversible reaction
+R043,"Methane, Calcium Carbonate",Nitrogen,Polymerization,"Low Temp, 249 K",251.39,274.91,Slow,Gas to Aqueous,Biological process
+R044,Hydrogen,"Ethanol, Ethene, Carbon Monoxide",Polymerization,"Electric Current, 183 K",-155.77,220.08,Fast,Gas to Solid,Requires external energy input
+R045,"Sulfuric Acid, Oxygen, Benzene","Sodium Chloride, Methane",Oxidation-Reduction,"High Temp, 45 K",-346.52,103.71,Moderate,Aqueous to Liquid,Forms a stable compound
+R046,"Phenol, Oxygen, Chlorine","Oxygen, Ethene",Decomposition,"Catalyst: None, 5 K",-186.81,185.31,Fast,Gas to Gas,Requires external energy input
+R047,"Calcium Carbonate, Sodium Chloride","Benzene, Iron",Condensation,"Electric Current, 100 K",359.68,267.53,Fast,Solid to Liquid,Industrial significance
+R048,"Hydrochloric Acid, Sodium Hydroxide",Sodium Hydroxide,Oxidation-Reduction,"Catalyst: None, 3 K",-152.26,11.7,Moderate,Solid to Aqueous,Highly exothermic
+R049,Ethanol,"Hydrochloric Acid, Ethanol",Neutralization,"Electric Current, 275 K",85.32,187.8,Fast,Liquid to Solid,Reversible reaction
+R050,"Methane, Chlorine, Hydrochloric Acid",Methane,Addition,"Catalyst: None, 237 K",-139.83,69.5,Slow,Gas to Gas,Industrial significance
+R051,"Sulfuric Acid, Nitrogen","Ethene, Acetic Acid, Chlorine",Addition,"High Temp, 126 K",-128.22,88.85,Moderate,Solid to Solid,Industrial significance
+R052,Acetic Acid,"Ammonia, Chlorine",Electrolysis,"Catalyst: None, 451 K",-264.87,264.08,Moderate,Liquid to Liquid,Forms a stable compound
+R053,"Acetic Acid, Benzene, Potassium Iodide","Acetic Acid, Hydrochloric Acid, Sulfuric Acid",Combustion,"Electric Current, 335 K",444.56,278.7,Slow,Aqueous to Gas,Industrial significance
+R054,"Ammonia, Magnesium","Glucose, Carbon Dioxide",Synthesis,"Catalyst: None, 209 K",-433.13,186.58,Slow,Gas to Liquid,Industrial significance
+R055,"Chlorine, Water","Carbon Monoxide, Sodium Hydroxide, Sulfuric Acid",Neutralization,"Electric Current, 42 K",-471.25,19.35,Slow,Gas to Gas,Reversible reaction
+R056,"Potassium Iodide, Sodium Chloride","Nitrogen, Sodium Chloride",Hydrolysis,"Low Temp, 205 K",437.07,67.54,Fast,Liquid to Solid,Biological process
+R057,Methane,"Phenol, Ammonia, Acetylene",Isomerization,"Electric Current, 147 K",-5.7,271.87,Slow,Gas to Liquid,Forms a stable compound
+R058,Oxygen,"Oxygen, Sodium Hydroxide",Synthesis,"Low Temp, 273 K",452.12,73.88,Slow,Solid to Gas,Highly exothermic
+R059,"Sulfuric Acid, Calcium Carbonate, Oxygen",Water,Addition,"Low Temp, 288 K",-157.1,12.44,Fast,Aqueous to Aqueous,Requires external energy input
+R060,Magnesium,"Water, Ethanol, Oxygen",Hydrolysis,"Catalyst: None, 221 K",459.14,289.33,Slow,Gas to Liquid,Biological process
+R061,"Calcium Carbonate, Water",Chlorine,Isomerization,"Catalyst: None, 80 K",-191.56,78.36,Slow,Gas to Liquid,Biological process
+R062,Phenol,Methane,Addition,"Catalyst: None, 298 K",-436.39,182.84,Slow,Solid to Solid,Biological process
+R063,"Carbon Monoxide, Sodium Chloride",Ammonia,Decomposition,"High Temp, 197 K",-250.41,19.35,Slow,Liquid to Aqueous,Highly exothermic
+R064,"Carbon Dioxide, Ethanol",Magnesium,Hydrolysis,"Catalyst: None, 336 K",-365.7,99.69,Slow,Gas to Aqueous,Highly exothermic
+R065,Potassium Iodide,"Glucose, Hydrogen, Iron",Condensation,"Low Temp, 246 K",-76.29,145.62,Fast,Gas to Liquid,Forms a stable compound
+R066,"Potassium Iodide, Sodium Hydroxide","Acetic Acid, Sodium Chloride, Calcium Carbonate",Isomerization,"High Temp, 383 K",-294.63,178.06,Moderate,Aqueous to Liquid,Highly exothermic
+R067,Sodium Hydroxide,"Sodium Hydroxide, Magnesium, Ethanol",Electrolysis,"Low Temp, 468 K",20.72,56.46,Moderate,Solid to Solid,Biological process
+R068,Chlorine,"Hydrogen, Sodium Chloride",Decomposition,"High Temp, 156 K",355.31,177.95,Moderate,Liquid to Solid,Biological process
+R069,Iron,Ethene,Isomerization,"Electric Current, 52 K",-171.29,201.9,Moderate,Solid to Liquid,Forms a stable compound
+R070,"Phenol, Glucose","Sodium Chloride, Glucose, Hydrochloric Acid",Combustion,"Electric Current, 491 K",372.27,279.78,Slow,Liquid to Gas,Highly exothermic
+R071,"Glucose, Acetic Acid, Ammonia","Benzene, Nitrogen, Oxygen",Hydrolysis,"Low Temp, 101 K",386.28,146.17,Fast,Gas to Liquid,Forms a stable compound
+R072,"Hydrogen, Phenol","Carbon Dioxide, Ammonia, Sodium Hydroxide",Condensation,"Low Temp, 448 K",275.64,213.01,Moderate,Aqueous to Liquid,Highly exothermic
+R073,"Calcium Carbonate, Ethene",Sodium Chloride,Oxidation-Reduction,"High Temp, 450 K",365.8,11.97,Fast,Aqueous to Gas,Forms a stable compound
+R074,"Ethanol, Nitrogen",Sodium Hydroxide,Isomerization,"Electric Current, 318 K",-90.21,118.29,Fast,Gas to Liquid,Requires external energy input
+R075,Sulfuric Acid,"Water, Calcium Carbonate",Polymerization,"Low Temp, 225 K",-31.95,57.05,Fast,Aqueous to Aqueous,Industrial significance
+R076,Magnesium,Ammonia,Neutralization,"Catalyst: None, 282 K",-471.44,31.96,Fast,Gas to Solid,Highly exothermic
+R077,"Acetylene, Phenol",Sodium Chloride,Hydrolysis,"Catalyst: None, 124 K",-482.03,169.03,Moderate,Liquid to Aqueous,Requires external energy input
+R078,"Hydrochloric Acid, Iron, Ethanol","Ammonia, Nitrogen",Isomerization,"High Temp, 153 K",-92.91,84.47,Fast,Aqueous to Liquid,Biological process
+R079,"Sodium Hydroxide, Sodium Chloride, Sulfuric Acid","Phenol, Hydrochloric Acid",Oxidation-Reduction,"Electric Current, 300 K",208.45,246.83,Slow,Aqueous to Gas,Highly exothermic
+R080,Chlorine,Iron,Addition,"High Temp, 13 K",437.05,290.65,Moderate,Solid to Solid,Forms a stable compound
+R081,"Sulfuric Acid, Sodium Hydroxide","Sodium Chloride, Hydrogen",Decomposition,"Low Temp, 266 K",-345.25,98.02,Moderate,Liquid to Liquid,Forms a stable compound
+R082,"Ethene, Sulfuric Acid, Sodium Chloride","Sulfuric Acid, Nitrogen",Addition,"Electric Current, 292 K",-211.91,200.93,Slow,Solid to Aqueous,Forms a stable compound
+R083,"Hydrogen, Ethanol, Oxygen","Methane, Magnesium, Acetylene",Synthesis,"Low Temp, 393 K",-208.88,65.36,Moderate,Gas to Liquid,Reversible reaction
+R084,"Sodium Hydroxide, Phenol","Oxygen, Hydrochloric Acid, Glucose",Hydrolysis,"Electric Current, 62 K",-202.04,163.67,Slow,Gas to Gas,Reversible reaction
+R085,Ethanol,Oxygen,Polymerization,"Electric Current, 85 K",-6.44,83.77,Slow,Liquid to Liquid,Highly exothermic
+R086,"Iron, Methane",Chlorine,Decomposition,"High Temp, 118 K",402.85,134.68,Slow,Gas to Solid,Requires external energy input
+R087,"Acetic Acid, Chlorine, Water",Sodium Chloride,Decomposition,"Electric Current, 336 K",-149.2,93.47,Slow,Liquid to Solid,Forms a stable compound
+R088,"Chlorine, Benzene, Sodium Chloride",Chlorine,Decomposition,"Electric Current, 85 K",249.58,166.92,Moderate,Aqueous to Solid,Forms a stable compound
+R089,"Oxygen, Ethene, Sodium Hydroxide",Carbon Monoxide,Synthesis,"Catalyst: None, 274 K",364.3,141.02,Fast,Liquid to Aqueous,Forms a stable compound
+R090,"Hydrogen, Chlorine","Acetylene, Methane, Carbon Monoxide",Isomerization,"Low Temp, 326 K",-384.76,143.17,Moderate,Liquid to Aqueous,Highly exothermic
+R091,"Oxygen, Calcium Carbonate","Oxygen, Potassium Iodide, Ethene",Decomposition,"High Temp, 272 K",-395.4,144.02,Fast,Gas to Gas,Highly exothermic
+R092,"Glucose, Nitrogen, Sulfuric Acid",Sulfuric Acid,Addition,"Electric Current, 248 K",448.97,50.69,Fast,Aqueous to Solid,Industrial significance
+R093,Benzene,"Phenol, Water",Neutralization,"Electric Current, 421 K",-339.03,249.14,Moderate,Aqueous to Liquid,Reversible reaction
+R094,Acetylene,Potassium Iodide,Addition,"Low Temp, 481 K",452.65,48.11,Slow,Aqueous to Solid,Highly exothermic
+R095,Potassium Iodide,"Magnesium, Ethanol, Potassium Iodide",Electrolysis,"Catalyst: None, 331 K",-48.99,234.81,Fast,Gas to Gas,Highly exothermic
+R096,"Oxygen, Benzene, Sodium Chloride","Acetic Acid, Oxygen",Condensation,"High Temp, 395 K",-292.72,283.69,Slow,Solid to Solid,Biological process
+R097,Chlorine,"Ethanol, Iron",Condensation,"Low Temp, 48 K",-408.16,191.56,Slow,Solid to Solid,Forms a stable compound
+R098,Nitrogen,Ammonia,Oxidation-Reduction,"Electric Current, 277 K",57.26,121.27,Fast,Gas to Aqueous,Reversible reaction
+R099,"Methane, Magnesium",Benzene,Isomerization,"Catalyst: None, 28 K",198.09,156.94,Moderate,Aqueous to Solid,Reversible reaction
+R100,Carbon Dioxide,"Iron, Sodium Chloride",Decomposition,"Electric Current, 347 K",-181.01,265.6,Moderate,Liquid to Solid,Forms a stable compound
